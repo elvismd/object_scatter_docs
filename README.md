@@ -94,7 +94,10 @@ On some examples these Object Scatter objects have an exclusion path.
 ![image](https://user-images.githubusercontent.com/9807602/156622464-815b9132-98f0-4a55-96fc-fbd5e3c31462.png)
 
 ## Check out the wiki
-If you need more info on how to use the tool check out the [project wiki](https://github.com/elvismd/object_scatter_docs/wiki).
+Need more info on how to use the tool? Check out the [project wiki](https://github.com/elvismd/object_scatter_docs/wiki).
+
+Also the [Quick Setup for Beginners](https://github.com/elvismd/object_scatter_docs/wiki/Quick-Setup-for-Beginners).
+
 If you have any problems you can contact me at **contact@elvismd.com**.
 
 ##
