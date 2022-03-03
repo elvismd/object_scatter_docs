@@ -1,5 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/9807602/156608653-227fd8e0-3b0f-42ca-85b9-89d7d81542a0.png)
-Welcome to Object Scatter's Documentaton, a tool for Unity to provide a simple solution to organically place props on your scene to speed up the level design process.
+Welcome to Object Scatter Documentaton, a tool for the Unity game engine.
+The main goal is to provide a simple solution to organically place props on your scene to speed up the level design process.
 
 ## Features:
 
