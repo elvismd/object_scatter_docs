@@ -98,7 +98,6 @@ For info on **how to use the scene tools** [check this tutorial](https://github.
 
 ![image](https://user-images.githubusercontent.com/9807602/156811805-082437ed-3846-47e1-b3f4-368e9501dbef.png)
 
-
 ## Check out the wiki
 Need more info on how to use the tool? Check out the [project wiki](https://github.com/elvismd/object_scatter_docs/wiki).
 
