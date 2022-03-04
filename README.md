@@ -93,6 +93,9 @@ On some examples these Object Scatter objects have an exclusion path.
 
 ![image](https://user-images.githubusercontent.com/9807602/156622464-815b9132-98f0-4a55-96fc-fbd5e3c31462.png)
 
+## Scene Editing
+For a tutorial on how to use the scene tools [check this tutorial](https://github.com/elvismd/object_scatter_docs/wiki/Scene-View-Tools).
+
 ## Check out the wiki
 Need more info on how to use the tool? Check out the [project wiki](https://github.com/elvismd/object_scatter_docs/wiki).
 
