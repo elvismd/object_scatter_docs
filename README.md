@@ -77,7 +77,7 @@ Here you can setup the items you want and also mark to bake it into one single m
 
 It generates objects with a baked mesh based on the prefab's material.
 
-So make sure the prefab being used here on items has a `MeshFilter` **AND** a `MeshRenderer` at the root of it.
+So **make sure the prefab being used here on items** has a `MeshFilter` **AND** a `MeshRenderer` at the **root** of it.
 For now **I'm not supporting** baking multiple meshes that are child of the root prefab being added to the items list.
 
 ### Exclusions
