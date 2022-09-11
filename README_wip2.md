@@ -3,6 +3,8 @@
 Welcome to Object Scatter Documentaton, a tool for the Unity game engine.
 The main goal is to provide a simple solution to organically place props on your scene to speed up the level design process.
 
+**Notice**: This tool works best with **Unity 2021+**.
+
 ## Features:
 
 - Spawns multiple prefabs over a bezier path area
