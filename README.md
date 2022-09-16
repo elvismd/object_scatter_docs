@@ -13,7 +13,7 @@ The main goal is to provide a simple solution to organically place props on your
 - Includes sample scenes with multiple examples
 - Project the instances on a grid or on top of colliders
 
-![editor screenshot new](https://user-images.githubusercontent.com/9807602/156601132-37d0443d-f088-4e79-8535-0c07323955a8.PNG)
+![image](https://user-images.githubusercontent.com/9807602/190620820-e99f147c-2db0-428d-96b9-ae383fe9ef50.png)
 
 You can buy Object Scatter on the Asset Store [here](https://u3d.as/2kJE).
 
